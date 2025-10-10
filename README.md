@@ -10,7 +10,7 @@ A hybrid Python + SQLite project exploring salary, benefits, and overtime patter
 ## Files
 - `lesson-11.ipynb` — full analysis
 
-- **Also view on:**
+## Also view on:
 - [Kaggle Notebook](https://www.kaggle.com/your-notebook-link)
 - [Canva Summary](https://www.canva.com)
 - [erichanaway.com](https://erichanaway.com)
