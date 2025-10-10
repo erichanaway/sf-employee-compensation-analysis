@@ -9,4 +9,4 @@ A hybrid Python + SQLite project exploring salary, benefits, and overtime patter
 
 ## Files
 - `lesson-11.ipynb` — full analysis
-- `charts/` — exported figures for Canva or dashboards
+
