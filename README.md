@@ -1,2 +1,12 @@
-# sf-employee-compensation-analysis
-Data cleaning, SQL analysis, and hypothesis testing of San Francisco employee compensation using Python + SQLite.
+# SF Employee Compensation Analysis (Lesson 11)
+A hybrid Python + SQLite project exploring salary, benefits, and overtime patterns among San Francisco city employees.
+
+## Highlights
+- Cleaned 350k+ records with Pandas.
+- Built SQLite warehouse and optimized queries.
+- Ran 3 hypothesis tests on pay / benefit / overtime patterns.
+- Created a visualization dashboard (Matplotlib).
+
+## Files
+- `lesson-11.ipynb` — full analysis
+- `charts/` — exported figures for Canva or dashboards
