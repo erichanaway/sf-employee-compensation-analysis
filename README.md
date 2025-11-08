@@ -1,4 +1,4 @@
-# SF Employee Compensation Analysis (Lesson 11)
+# SF Employee Compensation Analysis
 A hybrid Python + SQLite project exploring salary, benefits, and overtime patterns among San Francisco city employees.
 
 ## Highlights
